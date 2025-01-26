@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    font-size: 40px;
+}
+
+.active {
+    text-decoration: line-through;
+    color: green;
+}
+
+.do-list {
+    list-style-type: none;
+}
